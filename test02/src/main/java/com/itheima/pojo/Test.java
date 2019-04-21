@@ -8,5 +8,6 @@ package com.itheima.pojo;
 public class Test {
     public static void main(String[] args) {
         System.out.println("helloWorld");
+        System.out.println("how do you do !!");
     }
 }
